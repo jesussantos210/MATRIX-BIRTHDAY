@@ -23,7 +23,7 @@ La animación finaliza con un efecto de limpieza y la revelación de un GIF sorp
 ├── index.html      # Punto de entrada
 ├── style.css       # Estilos visuales
 ├── script.js       # Lógica de animación y física
-└── final.gif       # Animación final (Cute Cats)
+└── HBD-CUTE.gif       # Animación final (Cute Cats)
 ```
 
 ## 📦 Instalación y Uso
@@ -50,3 +50,4 @@ const secuenciaTexto = ["5", "4", "3", "2", "1", "HAPPY BIRTHDAY"];
  [ DEV ] Jesús Santos 🫡
 
 ```
+
