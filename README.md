@@ -30,7 +30,7 @@ La animación finaliza con un efecto de limpieza y la revelación de un GIF sorp
 
 1. Clona este repositorio:
 
-git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git)
+git clone [[https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com/jesussantos210/MATRIX-BIRTHDAY)]
 
 2. Asegúrate de tener un archivo llamado `final.gif` en la raíz del proyecto.
 
@@ -43,9 +43,10 @@ git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com
 Puedes modificar la secuencia de palabras editando el array secuenciaTexto en el archivo script.js:
 
 ```js
-const secuenciaTexto = ["3", "2", "1", "HAPPY BIRTHDAY"];
+const secuenciaTexto = ["5", "4", "3", "2", "1", "HAPPY BIRTHDAY"];
  ```
 
 ```js 
  [ DEV ] Jesús Santos 🫡
+
 ```
